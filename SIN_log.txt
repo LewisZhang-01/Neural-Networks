@@ -1,0 +1,20 @@
+SIN
+
+
+************* Training *************
+Epoch: 0 	 Loss: [1.46085]
+Epoch: 10000 	 Loss: [0.10912]
+Epoch: 20000 	 Loss: [-0.00702]
+Epoch: 30000 	 Loss: [0.00816]
+Epoch: 40000 	 Loss: [-0.02094]
+Epoch: 50000 	 Loss: [0.00897]
+Epoch: 60000 	 Loss: [-0.04861]
+Epoch: 70000 	 Loss: [0.08656]
+Epoch: 80000 	 Loss: [-0.05076]
+Epoch: 90000 	 Loss: [-0.08769]
+
+The RMSE of "training set" is 0.07 	Accuracy = 0.94
+
+*************** Test ***************
+
+The RMSE of "test set" is 0.07 	Accuracy = 0.94

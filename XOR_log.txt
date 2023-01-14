@@ -1,0 +1,22 @@
+XOR
+
+
+************* Training *************
+
+Epoch: 0 	 Loss: [1.42588]
+Epoch: 1000 	 Loss: [0.25699]
+Epoch: 2000 	 Loss: [0.07589]
+Epoch: 3000 	 Loss: [0.]
+Epoch: 4000 	 Loss: [0.02537]
+Epoch: 5000 	 Loss: [0.]
+Epoch: 6000 	 Loss: [0.01712]
+Epoch: 7000 	 Loss: [0.01335]
+Epoch: 8000 	 Loss: [0.]
+Epoch: 9000 	 Loss: [0.00975]
+
+*************** Test ***************
+
+[0 0] -> [0] 	 Expect Output: [0] 	 Actual Output: [0.]
+[0 1] -> [1] 	 Expect Output: [1] 	 Actual Output: [0.99141]
+[1 0] -> [1] 	 Expect Output: [1] 	 Actual Output: [0.99103]
+[1 1] -> [0] 	 Expect Output: [0] 	 Actual Output: [0.01158]
